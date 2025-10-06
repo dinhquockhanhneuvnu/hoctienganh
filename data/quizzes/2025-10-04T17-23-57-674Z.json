@@ -1,0 +1,1394 @@
+[
+  {
+    "vocabularyWord": "My friend",
+    "question": "Theo bạn từ My friend có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "My friend là người tôi thường xuyên trò chuyện.",
+      "My friend là người luôn ủng hộ tôi trong cuộc sống.",
+      "My friend thường cùng tôi chia sẻ những niềm vui, nỗi buồn."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "bạn của tôi"
+      },
+      {
+        "label": "B",
+        "text": "gia đình tôi"
+      },
+      {
+        "label": "C",
+        "text": "người yêu của tôi"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "lives in",
+    "question": "Theo bạn từ lives in có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Lives in mô tả nơi một người cư trú lâu dài.",
+      "Lives in thường đi kèm với tên địa điểm như thành phố, quốc gia.",
+      "Lives in là hành động sinh sống tại một địa điểm cụ thể."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "sống ở"
+      },
+      {
+        "label": "B",
+        "text": "làm việc tại"
+      },
+      {
+        "label": "C",
+        "text": "đi đến"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "a small town",
+    "question": "Theo bạn từ a small town có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "A small town thường có ít dân cư hơn thành phố.",
+      "A small town thường có không khí yên bình, ít ồn ào.",
+      "A small town là một khu dân cư nhỏ, không phải là một đô thị lớn."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "một thị trấn nhỏ"
+      },
+      {
+        "label": "B",
+        "text": "một thành phố lớn"
+      },
+      {
+        "label": "C",
+        "text": "một ngôi làng"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "a quiet place",
+    "question": "Theo bạn từ a quiet place có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "A quiet place là nơi không có nhiều tiếng ồn ào.",
+      "A quiet place thường mang lại cảm giác thanh bình, thư giãn.",
+      "A quiet place là một địa điểm yên tĩnh."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "một nơi yên tĩnh"
+      },
+      {
+        "label": "B",
+        "text": "một nơi ồn ào"
+      },
+      {
+        "label": "C",
+        "text": "một nơi đông đúc"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "friendly people",
+    "question": "Theo bạn từ friendly people có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Friendly people là những người dễ gần, thích trò chuyện.",
+      "Friendly people thường mỉm cười và chào hỏi mọi người.",
+      "Friendly people là những người hòa đồng, có thái độ thân thiện."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "những người thân thiện"
+      },
+      {
+        "label": "B",
+        "text": "những người bận rộn"
+      },
+      {
+        "label": "C",
+        "text": "những người xa lạ"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "Every morning",
+    "question": "Theo bạn từ Every morning có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Every morning là khoảng thời gian từ bình minh đến trưa mỗi ngày.",
+      "Every morning là một thói quen diễn ra vào đầu ngày.",
+      "Every morning là mỗi buổi sáng."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "mỗi buổi sáng"
+      },
+      {
+        "label": "B",
+        "text": "mỗi buổi chiều"
+      },
+      {
+        "label": "C",
+        "text": "mỗi buổi tối"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "walks to her job",
+    "question": "Theo bạn từ walks to her job có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Walks to her job là hành động di chuyển bằng chân để đến nơi làm việc.",
+      "Walks to her job thường được thực hiện vào đầu ngày làm việc.",
+      "Walks to her job là cách cô ấy đến công sở."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "đi bộ đến nơi làm việc"
+      },
+      {
+        "label": "B",
+        "text": "lái xe đến nơi làm việc"
+      },
+      {
+        "label": "C",
+        "text": "đi xe buýt đến nơi làm việc"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "the local library",
+    "question": "Theo bạn từ the local library có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "The local library là nơi mọi người có thể mượn sách.",
+      "The local library là thư viện ở gần khu vực sinh sống của bạn.",
+      "The local library là một nguồn tài nguyên cộng đồng cung cấp sách và thông tin."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "thư viện địa phương"
+      },
+      {
+        "label": "B",
+        "text": "cửa hàng sách"
+      },
+      {
+        "label": "C",
+        "text": "trường học"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "likes her job",
+    "question": "Theo bạn từ likes her job có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Likes her job thể hiện sự hài lòng với công việc đang làm.",
+      "Likes her job có nghĩa là cô ấy tìm thấy niềm vui trong công việc.",
+      "Likes her job là cảm thấy thích thú với công việc của mình."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "thích công việc của cô ấy"
+      },
+      {
+        "label": "B",
+        "text": "ghét công việc của cô ấy"
+      },
+      {
+        "label": "C",
+        "text": "tìm kiếm công việc mới"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "loves books",
+    "question": "Theo bạn từ loves books có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Loves books là có niềm đam mê đặc biệt với việc đọc sách.",
+      "Loves books thể hiện sự yêu thích sâu sắc đối với văn học.",
+      "Loves books là rất thích đọc sách."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "yêu sách"
+      },
+      {
+        "label": "B",
+        "text": "ghét sách"
+      },
+      {
+        "label": "C",
+        "text": "viết sách"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "helping people",
+    "question": "Theo bạn từ helping people có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Helping people là hành động hỗ trợ hoặc giúp đỡ người khác.",
+      "Helping people thường mang lại lợi ích cho cộng đồng.",
+      "Helping people là việc làm có ích cho xã hội."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "giúp đỡ mọi người"
+      },
+      {
+        "label": "B",
+        "text": "gặp gỡ mọi người"
+      },
+      {
+        "label": "C",
+        "text": "trò chuyện với mọi người"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "find the information",
+    "question": "Theo bạn từ find the information có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Find the information là việc tìm kiếm dữ liệu hoặc kiến thức.",
+      "Find the information thường liên quan đến nghiên cứu hoặc học hỏi.",
+      "Find the information là hành động tra cứu thông tin."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "tìm kiếm thông tin"
+      },
+      {
+        "label": "B",
+        "text": "ghi nhớ thông tin"
+      },
+      {
+        "label": "C",
+        "text": "chia sẻ thông tin"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "they need",
+    "question": "Theo bạn từ they need có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "They need thể hiện điều mà họ mong muốn có hoặc cần phải có.",
+      "They need là những thứ thiết yếu hoặc quan trọng đối với họ.",
+      "They need là nhu cầu của một nhóm người."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "họ cần"
+      },
+      {
+        "label": "B",
+        "text": "họ có"
+      },
+      {
+        "label": "C",
+        "text": "họ thích"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "After work",
+    "question": "Theo bạn từ After work có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "After work là khoảng thời gian sau khi kết thúc công việc trong ngày.",
+      "After work là lúc mọi người thường về nhà hoặc thực hiện các hoạt động giải trí.",
+      "After work là thời điểm sau giờ làm việc."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "sau giờ làm"
+      },
+      {
+        "label": "B",
+        "text": "trước giờ làm"
+      },
+      {
+        "label": "C",
+        "text": "trong giờ làm"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "often goes",
+    "question": "Theo bạn từ often goes có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Often goes là hành động xảy ra thường xuyên.",
+      "Often goes cho thấy một thói quen hoặc tần suất đi đâu đó cao.",
+      "Often goes là việc thường xuyên đến một nơi nào đó."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "thường đi"
+      },
+      {
+        "label": "B",
+        "text": "hiếm khi đi"
+      },
+      {
+        "label": "C",
+        "text": "không bao giờ đi"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "the park",
+    "question": "Theo bạn từ the park có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "The park là một khu vực xanh mát trong thành phố.",
+      "The park là nơi mọi người thường đến để thư giãn, đi dạo hoặc tập thể dục.",
+      "The park là một công viên công cộng."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "công viên"
+      },
+      {
+        "label": "B",
+        "text": "siêu thị"
+      },
+      {
+        "label": "C",
+        "text": "rạp chiếu phim"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "is beautiful",
+    "question": "Theo bạn từ is beautiful có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Is beautiful mô tả một cái gì đó có vẻ ngoài rất hấp dẫn, dễ chịu.",
+      "Is beautiful thường dùng để khen ngợi cảnh vật, con người hoặc tác phẩm nghệ thuật.",
+      "Is beautiful là tính từ chỉ sự đẹp đẽ."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "thì đẹp"
+      },
+      {
+        "label": "B",
+        "text": "thì xấu"
+      },
+      {
+        "label": "C",
+        "text": "thì nhỏ"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "many trees",
+    "question": "Theo bạn từ many trees có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Many trees là một số lượng lớn cây cối.",
+      "Many trees tạo nên một khu rừng hoặc một khu vườn rậm rạp.",
+      "Many trees là cảnh quan có nhiều cây."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "nhiều cây"
+      },
+      {
+        "label": "B",
+        "text": "ít cây"
+      },
+      {
+        "label": "C",
+        "text": "một cái cây"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "flowers",
+    "question": "Theo bạn từ flowers có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Flowers là những phần đẹp mắt và thường có màu sắc của cây.",
+      "Flowers thường được dùng để trang trí hoặc làm quà tặng.",
+      "Flowers là hoa."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "hoa"
+      },
+      {
+        "label": "B",
+        "text": "cây"
+      },
+      {
+        "label": "C",
+        "text": "lá"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "sometimes meets",
+    "question": "Theo bạn từ sometimes meets có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Sometimes meets là việc gặp gỡ ai đó không thường xuyên.",
+      "Sometimes meets thể hiện một hành động diễn ra không theo quy luật nhất định.",
+      "Sometimes meets là thỉnh thoảng có cuộc gặp gỡ."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "thỉnh thoảng gặp"
+      },
+      {
+        "label": "B",
+        "text": "luôn luôn gặp"
+      },
+      {
+        "label": "C",
+        "text": "không bao giờ gặp"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "her friends",
+    "question": "Theo bạn từ her friends có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Her friends là những người bạn của cô ấy.",
+      "Her friends thường cùng cô ấy tham gia các hoạt động vui chơi.",
+      "Her friends là những người có mối quan hệ thân thiết với cô ấy."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "bạn bè của cô ấy"
+      },
+      {
+        "label": "B",
+        "text": "gia đình của cô ấy"
+      },
+      {
+        "label": "C",
+        "text": "đồng nghiệp của cô ấy"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "talk about",
+    "question": "Theo bạn từ talk about có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Talk about là hành động trao đổi thông tin hoặc ý kiến về một chủ đề.",
+      "Talk about là thảo luận hoặc nói chuyện về điều gì đó.",
+      "Talk about là kể về một sự việc hoặc một người."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "nói về"
+      },
+      {
+        "label": "B",
+        "text": "viết về"
+      },
+      {
+        "label": "C",
+        "text": "nghĩ về"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "their day",
+    "question": "Theo bạn từ their day có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Their day là những gì đã xảy ra hoặc những hoạt động họ đã làm trong một ngày.",
+      "Their day là tổng thể các sự kiện trong khoảng thời gian từ sáng đến tối của họ.",
+      "Their day là một ngày của họ."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "một ngày của họ"
+      },
+      {
+        "label": "B",
+        "text": "cuộc sống của họ"
+      },
+      {
+        "label": "C",
+        "text": "công việc của họ"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "On weekends",
+    "question": "Theo bạn từ On weekends có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "On weekends là khoảng thời gian cuối tuần, thường là thứ Bảy và Chủ Nhật.",
+      "On weekends là lúc mọi người thường nghỉ ngơi và giải trí.",
+      "On weekends là vào những ngày cuối tuần."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "vào cuối tuần"
+      },
+      {
+        "label": "B",
+        "text": "vào các ngày trong tuần"
+      },
+      {
+        "label": "C",
+        "text": "vào buổi tối"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "enjoys",
+    "question": "Theo bạn từ enjoys có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Enjoys là cảm thấy thích thú hoặc vui vẻ với một hoạt động.",
+      "Enjoys là có niềm vui từ việc làm gì đó.",
+      "Enjoys thể hiện sự yêu thích hoặc hài lòng."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "thích thú"
+      },
+      {
+        "label": "B",
+        "text": "ghét bỏ"
+      },
+      {
+        "label": "C",
+        "text": "từ chối"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "different activities",
+    "question": "Theo bạn từ different activities có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Different activities là nhiều loại hoạt động khác nhau.",
+      "Different activities bao gồm các sở thích hoặc việc làm đa dạng.",
+      "Different activities là các hoạt động không giống nhau."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "các hoạt động khác nhau"
+      },
+      {
+        "label": "B",
+        "text": "một hoạt động duy nhất"
+      },
+      {
+        "label": "C",
+        "text": "các hoạt động giống nhau"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "visits her family",
+    "question": "Theo bạn từ visits her family có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Visits her family là hành động đến thăm những người thân trong gia đình.",
+      "Visits her family thường để duy trì mối quan hệ và chia sẻ thời gian.",
+      "Visits her family là đi thăm gia đình của cô ấy."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "thăm gia đình"
+      },
+      {
+        "label": "B",
+        "text": "sống với gia đình"
+      },
+      {
+        "label": "C",
+        "text": "gọi điện cho gia đình"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "the next town",
+    "question": "Theo bạn từ the next town có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "The next town là thị trấn nằm liền kề hoặc rất gần với thị trấn hiện tại.",
+      "The next town thường có thể dễ dàng di chuyển đến.",
+      "The next town là thị trấn kế bên."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "thị trấn kế bên"
+      },
+      {
+        "label": "B",
+        "text": "thị trấn xa xôi"
+      },
+      {
+        "label": "C",
+        "text": "thị trấn của cô ấy"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "Her parents",
+    "question": "Theo bạn từ Her parents có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Her parents là bố và mẹ của cô ấy.",
+      "Her parents là những người đã sinh ra và nuôi dưỡng cô ấy.",
+      "Her parents là cha mẹ ruột của cô ấy."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "bố mẹ của cô ấy"
+      },
+      {
+        "label": "B",
+        "text": "anh chị em của cô ấy"
+      },
+      {
+        "label": "C",
+        "text": "con cái của cô ấy"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "always happy",
+    "question": "Theo bạn từ always happy có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Always happy là trạng thái vui vẻ kéo dài, không thay đổi.",
+      "Always happy thể hiện niềm hạnh phúc liên tục.",
+      "Always happy là luôn luôn cảm thấy vui vẻ."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "luôn luôn vui vẻ"
+      },
+      {
+        "label": "B",
+        "text": "luôn luôn buồn"
+      },
+      {
+        "label": "C",
+        "text": "thỉnh thoảng vui vẻ"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "to see her",
+    "question": "Theo bạn từ to see her có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "To see her là hành động nhìn hoặc gặp mặt cô ấy.",
+      "To see her thường liên quan đến một cuộc gặp gỡ trực tiếp.",
+      "To see her là khi gặp cô ấy."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "khi gặp cô ấy"
+      },
+      {
+        "label": "B",
+        "text": "khi nói chuyện với cô ấy"
+      },
+      {
+        "label": "C",
+        "text": "khi nhớ cô ấy"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "makes a delicious dinner",
+    "question": "Theo bạn từ makes a delicious dinner có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Makes a delicious dinner là hành động chuẩn bị một bữa ăn tối rất ngon miệng.",
+      "Makes a delicious dinner thường đòi hỏi kỹ năng nấu nướng.",
+      "Makes a delicious dinner là làm một bữa tối ngon."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "làm một bữa tối ngon miệng"
+      },
+      {
+        "label": "B",
+        "text": "ăn một bữa tối ngon miệng"
+      },
+      {
+        "label": "C",
+        "text": "mua một bữa tối ngon miệng"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "Last Sunday",
+    "question": "Theo bạn từ Last Sunday có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Last Sunday là ngày Chủ Nhật của tuần ngay trước tuần hiện tại.",
+      "Last Sunday là một thời điểm trong quá khứ gần.",
+      "Last Sunday là Chủ nhật tuần trước."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "Chủ nhật tuần trước"
+      },
+      {
+        "label": "B",
+        "text": "Chủ nhật tuần này"
+      },
+      {
+        "label": "C",
+        "text": "Chủ nhật tuần tới"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "decided to try",
+    "question": "Theo bạn từ decided to try có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Decided to try là hành động đưa ra quyết định thực hiện một điều gì đó mới.",
+      "Decided to try thể hiện sự sẵn sàng khám phá điều chưa biết.",
+      "Decided to try là đã quyết định thử một điều gì đó."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "quyết định thử"
+      },
+      {
+        "label": "B",
+        "text": "quyết định không thử"
+      },
+      {
+        "label": "C",
+        "text": "đang cố gắng"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "something new",
+    "question": "Theo bạn từ something new có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Something new là một điều chưa từng được trải nghiệm hoặc nhìn thấy trước đây.",
+      "Something new thường mang lại sự hứng thú hoặc thử thách.",
+      "Something new là một điều gì đó mới mẻ."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "một điều gì đó mới"
+      },
+      {
+        "label": "B",
+        "text": "một điều gì đó cũ"
+      },
+      {
+        "label": "C",
+        "text": "một điều gì đó quen thuộc"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "went to",
+    "question": "Theo bạn từ went to có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Went to là thì quá khứ của 'go to', chỉ hành động di chuyển đến một địa điểm.",
+      "Went to thường dùng để nói về việc đã đến một nơi nào đó.",
+      "Went to là đã đi đến một địa điểm cụ thể."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "đã đi đến"
+      },
+      {
+        "label": "B",
+        "text": "sẽ đi đến"
+      },
+      {
+        "label": "C",
+        "text": "đang đi đến"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "a cooking class",
+    "question": "Theo bạn từ a cooking class có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "A cooking class là nơi bạn học cách chế biến món ăn.",
+      "A cooking class thường có giáo viên hướng dẫn và các học viên cùng thực hành.",
+      "A cooking class là một lớp học nấu ăn."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "một lớp học nấu ăn"
+      },
+      {
+        "label": "B",
+        "text": "một nhà hàng"
+      },
+      {
+        "label": "C",
+        "text": "một cửa hàng tạp hóa"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "in the city",
+    "question": "Theo bạn từ in the city có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "In the city là ở trong khu vực đô thị lớn.",
+      "In the city thường chỉ nơi có nhiều tòa nhà cao tầng và đông đúc.",
+      "In the city là ở trong thành phố."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "trong thành phố"
+      },
+      {
+        "label": "B",
+        "text": "trong làng"
+      },
+      {
+        "label": "C",
+        "text": "trong rừng"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "learned",
+    "question": "Theo bạn từ learned có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Learned là thì quá khứ của 'learn', chỉ hành động tiếp thu kiến thức hoặc kỹ năng.",
+      "Learned là đã có được thông tin hoặc kỹ năng mới.",
+      "Learned là đã học."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "đã học"
+      },
+      {
+        "label": "B",
+        "text": "đang học"
+      },
+      {
+        "label": "C",
+        "text": "sẽ học"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "how to make",
+    "question": "Theo bạn từ how to make có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "How to make là cách thức để tạo ra một vật gì đó.",
+      "How to make thường đi kèm với hướng dẫn hoặc công thức.",
+      "How to make là chỉ cách làm một món đồ hoặc một món ăn."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "cách làm"
+      },
+      {
+        "label": "B",
+        "text": "cách ăn"
+      },
+      {
+        "label": "C",
+        "text": "cách mua"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "pasta",
+    "question": "Theo bạn từ pasta có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Pasta là một loại thực phẩm làm từ bột mì, trứng, nước và thường có nhiều hình dạng khác nhau.",
+      "Pasta là món ăn phổ biến trong ẩm thực Ý.",
+      "Pasta là mì ống."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "mì ống"
+      },
+      {
+        "label": "B",
+        "text": "bánh mì"
+      },
+      {
+        "label": "C",
+        "text": "gạo"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "a fun experience",
+    "question": "Theo bạn từ a fun experience có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "A fun experience là một trải nghiệm mang lại niềm vui và sự thích thú.",
+      "A fun experience thường đáng nhớ và tích cực.",
+      "A fun experience là một trải nghiệm thú vị."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "một trải nghiệm thú vị"
+      },
+      {
+        "label": "B",
+        "text": "một trải nghiệm buồn tẻ"
+      },
+      {
+        "label": "C",
+        "text": "một trải nghiệm tồi tệ"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "met",
+    "question": "Theo bạn từ met có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Met là thì quá khứ của 'meet', chỉ hành động gặp gỡ ai đó.",
+      "Met là đã có cuộc gặp mặt với một người nào đó.",
+      "Met là đã gặp."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "đã gặp"
+      },
+      {
+        "label": "B",
+        "text": "đang gặp"
+      },
+      {
+        "label": "C",
+        "text": "sẽ gặp"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "interesting people",
+    "question": "Theo bạn từ interesting people có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Interesting people là những người có tính cách, câu chuyện hoặc kiến thức làm người khác cảm thấy hấp dẫn.",
+      "Interesting people thường có thể chia sẻ những điều thú vị.",
+      "Interesting people là những người thú vị."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "những người thú vị"
+      },
+      {
+        "label": "B",
+        "text": "những người nhàm chán"
+      },
+      {
+        "label": "C",
+        "text": "những người bận rộn"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "In the evening",
+    "question": "Theo bạn từ In the evening có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "In the evening là khoảng thời gian từ chiều tối cho đến đêm.",
+      "In the evening là lúc mọi người thường dùng bữa tối và nghỉ ngơi.",
+      "In the evening là vào buổi tối."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "vào buổi tối"
+      },
+      {
+        "label": "B",
+        "text": "vào buổi sáng"
+      },
+      {
+        "label": "C",
+        "text": "vào buổi trưa"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "travelled back",
+    "question": "Theo bạn từ travelled back có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Travelled back là hành động di chuyển trở lại nơi đã xuất phát.",
+      "Travelled back là đã quay trở về một địa điểm trước đó.",
+      "Travelled back là quay trở lại."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "quay trở về"
+      },
+      {
+        "label": "B",
+        "text": "tiếp tục đi"
+      },
+      {
+        "label": "C",
+        "text": "đi đến"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "her town",
+    "question": "Theo bạn từ her town có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Her town là thị trấn mà cô ấy sinh sống hoặc có mối liên hệ mật thiết.",
+      "Her town là quê hương hoặc nơi ở hiện tại của cô ấy.",
+      "Her town là thị trấn của cô ấy."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "thị trấn của cô ấy"
+      },
+      {
+        "label": "B",
+        "text": "thành phố của cô ấy"
+      },
+      {
+        "label": "C",
+        "text": "ngôi làng của cô ấy"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "felt tired",
+    "question": "Theo bạn từ felt tired có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Felt tired là cảm giác cần được nghỉ ngơi sau một hoạt động thể chất hoặc tinh thần.",
+      "Felt tired là đã cảm thấy mệt mỏi.",
+      "Felt tired là cảm thấy uể oải, thiếu năng lượng."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "cảm thấy mệt"
+      },
+      {
+        "label": "B",
+        "text": "cảm thấy khỏe"
+      },
+      {
+        "label": "C",
+        "text": "cảm thấy vui"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "very happy",
+    "question": "Theo bạn từ very happy có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Very happy là trạng thái cảm xúc cực kỳ vui vẻ, phấn khởi.",
+      "Very happy thể hiện niềm hạnh phúc lớn lao.",
+      "Very happy là rất vui."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "rất vui"
+      },
+      {
+        "label": "B",
+        "text": "rất buồn"
+      },
+      {
+        "label": "C",
+        "text": "rất giận"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "thinks it is important",
+    "question": "Theo bạn từ thinks it is important có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Thinks it is important là nhận thấy một điều gì đó có giá trị hoặc cần thiết.",
+      "Thinks it is important thể hiện sự ưu tiên hoặc quan điểm cá nhân.",
+      "Thinks it is important là nghĩ rằng điều đó quan trọng."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "nghĩ rằng điều đó quan trọng"
+      },
+      {
+        "label": "B",
+        "text": "nghĩ rằng điều đó không quan trọng"
+      },
+      {
+        "label": "C",
+        "text": "nghĩ rằng điều đó dễ dàng"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "to learn new things",
+    "question": "Theo bạn từ to learn new things có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "To learn new things là hành động tiếp thu kiến thức hoặc kỹ năng chưa biết.",
+      "To learn new things là mở rộng hiểu biết của bản thân.",
+      "To learn new things là học những điều mới mẻ."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "học những điều mới"
+      },
+      {
+        "label": "B",
+        "text": "quên những điều đã học"
+      },
+      {
+        "label": "C",
+        "text": "dạy những điều mới"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "have new experiences",
+    "question": "Theo bạn từ have new experiences có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Have new experiences là trải qua những điều chưa từng làm hoặc cảm nhận trước đây.",
+      "Have new experiences giúp mở rộng tầm nhìn và hiểu biết.",
+      "Have new experiences là có những trải nghiệm mới."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "có những trải nghiệm mới"
+      },
+      {
+        "label": "B",
+        "text": "có những trải nghiệm cũ"
+      },
+      {
+        "label": "C",
+        "text": "không có trải nghiệm nào"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "is already planning",
+    "question": "Theo bạn từ is already planning có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Is already planning là hành động đã bắt đầu lập kế hoạch trước đó.",
+      "Is already planning thể hiện sự chủ động và chuẩn bị cho tương lai.",
+      "Is already planning là đã lên kế hoạch."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "đã lên kế hoạch"
+      },
+      {
+        "label": "B",
+        "text": "sẽ lên kế hoạch"
+      },
+      {
+        "label": "C",
+        "text": "đang hủy kế hoạch"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "her next adventure",
+    "question": "Theo bạn từ her next adventure có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Her next adventure là chuyến đi hoặc trải nghiệm đầy thú vị sắp tới của cô ấy.",
+      "Her next adventure thường bao gồm yếu tố khám phá hoặc mạo hiểm.",
+      "Her next adventure là chuyến phiêu lưu tiếp theo của cô ấy."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "chuyến phiêu lưu tiếp theo của cô ấy"
+      },
+      {
+        "label": "B",
+        "text": "kế hoạch hàng ngày của cô ấy"
+      },
+      {
+        "label": "C",
+        "text": "công việc thường ngày của cô ấy"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "a trip to the mountains",
+    "question": "Theo bạn từ a trip to the mountains có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "A trip to the mountains là chuyến đi đến vùng đất có nhiều đồi núi.",
+      "A trip to the mountains thường liên quan đến các hoạt động như đi bộ đường dài, ngắm cảnh.",
+      "A trip to the mountains là một chuyến đi đến vùng núi."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "một chuyến đi đến vùng núi"
+      },
+      {
+        "label": "B",
+        "text": "một chuyến đi đến biển"
+      },
+      {
+        "label": "C",
+        "text": "một chuyến đi đến thành phố"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "wants to go hiking",
+    "question": "Theo bạn từ wants to go hiking có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Wants to go hiking là mong muốn đi bộ đường dài, thường ở vùng đồi núi.",
+      "Wants to go hiking thể hiện sự yêu thích hoạt động ngoài trời.",
+      "Wants to go hiking là muốn đi bộ đường dài."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "muốn đi bộ đường dài"
+      },
+      {
+        "label": "B",
+        "text": "muốn đi bơi"
+      },
+      {
+        "label": "C",
+        "text": "muốn đi xe đạp"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "enjoy",
+    "question": "Theo bạn từ enjoy có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "Enjoy là cảm thấy thích thú hoặc vui vẻ với điều gì đó.",
+      "Enjoy là trải nghiệm một cách tích cực.",
+      "Enjoy là tận hưởng một khoảnh khắc hoặc hoạt động."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "tận hưởng"
+      },
+      {
+        "label": "B",
+        "text": "chán ghét"
+      },
+      {
+        "label": "C",
+        "text": "bỏ qua"
+      }
+    ],
+    "correctOption": "A"
+  },
+  {
+    "vocabularyWord": "the beautiful views",
+    "question": "Theo bạn từ the beautiful views có nghĩa là gì? Tôi gợi ý nhé:",
+    "hints": [
+      "The beautiful views là những cảnh quan tuyệt đẹp từ một địa điểm nào đó.",
+      "The beautiful views thường bao gồm phong cảnh thiên nhiên hùng vĩ hoặc kiến trúc đẹp mắt.",
+      "The beautiful views là những cảnh đẹp, dễ chịu."
+    ],
+    "options": [
+      {
+        "label": "A",
+        "text": "những cảnh đẹp"
+      },
+      {
+        "label": "B",
+        "text": "những cảnh buồn"
+      },
+      {
+        "label": "C",
+        "text": "những cảnh cũ"
+      }
+    ],
+    "correctOption": "A"
+  }
+]

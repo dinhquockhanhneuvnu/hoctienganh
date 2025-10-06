@@ -1,0 +1,5 @@
+{
+  "name": "English Lesson Creator",
+  "description": "An application to create and study personalized English lessons using text, audio, and AI-generated flashcards.",
+  "requestFramePermissions": []
+}
