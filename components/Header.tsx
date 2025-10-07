@@ -18,7 +18,7 @@ const Header: React.FC<HeaderProps> = ({ currentView, setView }) => {
       <div className="container mx-auto flex justify-between items-center p-4">
         <div className="flex items-center gap-3">
             <img src="https://picsum.photos/40/40" alt="logo" className="rounded-full" />
-            <h1 className="text-2xl font-bold text-sky-700">EngageLearn</h1>
+            <h1 className="text-2xl font-bold text-sky-700">DivoVoca</h1>
         </div>
         <nav className="flex items-center gap-2 md:gap-4">
           <button
